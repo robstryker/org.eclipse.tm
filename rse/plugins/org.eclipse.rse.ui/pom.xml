@@ -9,6 +9,6 @@
   </parent>
   <groupId>org.eclipse.tm</groupId>
   <artifactId>org.eclipse.rse.ui</artifactId>
-  <version>3.3.400.qualifier</version>
+  <version>3.3.400-SNAPSHOT</version>
   <packaging>eclipse-plugin</packaging>
 </project>

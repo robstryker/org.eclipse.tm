@@ -27,22 +27,15 @@
 
   <modules>
     <module>org.eclipse.rse.core-feature</module>
-    <module>org.eclipse.rse.core.source</module>
     <module>org.eclipse.rse.dstore-feature</module>
-    <module>org.eclipse.rse.dstore.source</module>
     <module>org.eclipse.rse-feature</module>
     <module>org.eclipse.rse.ftp-feature</module>
-    <module>org.eclipse.rse.ftp.source</module>
     <module>org.eclipse.rse.local-feature</module>
-    <module>org.eclipse.rse.local.source</module>
     <module>org.eclipse.rse.scp-feature</module>
     <module>org.eclipse.rse.sdk-feature</module>
     <module>org.eclipse.rse.ssh-feature</module>
-    <module>org.eclipse.rse.ssh.source</module>
     <module>org.eclipse.rse.telnet-feature</module>
-    <module>org.eclipse.rse.telnet.source</module>
     <module>org.eclipse.rse.terminals-feature</module>
-    <module>org.eclipse.rse.terminals.source</module>
     <module>org.eclipse.rse.useractions-feature</module>
     <module>org.eclipse.rse.useractions.sdk-feature</module>
   </modules>

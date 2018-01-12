@@ -30,6 +30,5 @@
     <module>org.eclipse.rse.tests-feature</module>
     <module>org.eclipse.rse.tests.framework</module>
     <module>org.eclipse.rse.tests.framework.examples</module>
-    <module>org.eclipse.rse.tests.manual</module>
   </modules>
 </project>

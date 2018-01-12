@@ -30,6 +30,5 @@
     <module>org.eclipse.rse.examples.dstore</module>
     <module>org.eclipse.rse.examples-feature</module>
     <module>org.eclipse.rse.examples.tutorial</module>
-    <module>org.eclipse.rse.remotecdt</module>
   </modules>
 </project>
