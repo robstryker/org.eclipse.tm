@@ -23,7 +23,7 @@
     <tycho-version>1.0.0</tycho-version>
     <tycho-extras-version>1.0.0</tycho-extras-version>
     <maven-resources-version>2.6</maven-resources-version>
-    <sdk-version>4.8</sdk-version>
+    <sdk-version>4.8milestones/S-4.8M4-201712062000</sdk-version>
 
 
     <!-- Set up the default target platform to build against -->
